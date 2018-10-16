@@ -12,7 +12,7 @@ wxa.launchPage(Index);
 </script>
 <config>
 {
-    "navigationTextTitle": "首页"
+    "navigationBarTitleText": "首页"
 }
 </config>
 <template>
